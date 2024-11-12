@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+body {
+  @apply bg-[#eaf0f9];
+}
+main {
+  @apply container py-5 my-10 mx-auto;
+}
+
+a.active {
+  @apply border-b-2 border-task-100 text-task-100;
+} */
